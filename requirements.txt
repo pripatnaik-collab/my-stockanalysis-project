@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+langchain-google-genai
+python-dotenv
+yfinance
+plotly
